@@ -4,7 +4,7 @@ import styled from "styled-components";
 import MovieComponent from "./components/MovieComponent";
 import MovieInfoComponent from "./components/MovieInfoComponent";
 import Content from "./components/Content";
-import "./App.css"
+
 
 
 export const API_KEY = "82f1d90b";
@@ -56,7 +56,7 @@ const SearchInput = styled.input`
   outline: none;
   margin-left: 15px;
 `;
-export const MovieListContainer = styled.div`
+ const MovieListContainer = styled.div`
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
