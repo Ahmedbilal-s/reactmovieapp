@@ -92,7 +92,7 @@ function App() {
     <Container>
       <Header>
         <AppName>
-          <MovieImage src="/movie-icon.svg" />
+          <MovieImage src="/movieLogo.jpg" />
          A to Z movies
         </AppName>
         <SearchBox>

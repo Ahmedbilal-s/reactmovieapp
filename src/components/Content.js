@@ -5,7 +5,12 @@ import '../content.css';
 
 const Content = () => {
   return (
-     <img src="/movie-icon.svg" alt="ima" className="content"/>
+    <dev>
+      <h1>Kindly Search a movies</h1>
+ <img src="/movieLogo.jpg" alt="ima" className="content"/>
+    </dev>
+    
+     
      
   
   )
